@@ -24,3 +24,9 @@
 // let obj = {
 //     name: "tanay",
 //     age: 20}
+
+// adddeventlistener
+//let button = document.getElementById("myButton");
+//butoon.addeventlistener('click',function(){
+//    console.log("Button clicked!");
+//});
