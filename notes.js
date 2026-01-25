@@ -27,6 +27,10 @@
 
 // adddeventlistener
 //let button = document.getElementById("myButton");
-//butoon.addeventlistener('click',function(){
+//button.addEventListener('click',function(){
 //    console.log("Button clicked!");
 //});
+
+//innerhtml
+//let div = document.getElementById("myDiv");
+//div.innerHTML = "<p>This is a new paragraph!</p>";
