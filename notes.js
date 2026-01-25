@@ -34,3 +34,10 @@
 //innerhtml
 //let div = document.getElementById("myDiv");
 //div.innerHTML = "<p>This is a new paragraph!</p>";
+
+//localstorage
+//localstorage.setItem("username", "tanay");
+//let name = localstorage.getItem("username");
+//console.log(name);
+//localstorage.removeItem("username");
+//localstorage.clear();
