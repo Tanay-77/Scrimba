@@ -41,3 +41,5 @@
 //console.log(name);
 //localstorage.removeItem("username");
 //localstorage.clear();
+
+//json.parse  helps to convert JSON string into a JavaScript object 
