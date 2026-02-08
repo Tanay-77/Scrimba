@@ -37,3 +37,15 @@ server.listen(PORT,()=>console.log("done"))
 
 // res.setHeader('content-Type','application/json')
 //res.statuscode = 200
+
+
+// lets get acces of data with url like  api/destination/continent
+
+// let destination = data()
+
+// if (req.url.startswith(api/continent) && req.method==="get"){
+//    const continent = req.url.split(/).pop()   //    .split('/') → splits the string into an array //.pop() → takes the last element of the array
+// const filterdata = destination.filter((destination)=>
+    //   return destination.continent.tolowwercase=== continet.lowaercase )
+// res.end(json.strignify(filterdata))
+//}
