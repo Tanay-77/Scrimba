@@ -57,3 +57,6 @@ server.listen(PORT,()=>console.log("done"))
 //     res.setHeader("Content-Type","text/html")
 //     res.end('<html><h1>The server is working</h1></html>')
 // })
+
+// res.writeHead Method
+// res.writeHead(200,{Content-Type":"text/html})
