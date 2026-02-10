@@ -60,3 +60,11 @@ server.listen(PORT,()=>console.log("done"))
 
 // res.writeHead Method
 // res.writeHead(200,{Content-Type":"text/html})
+
+// path module 
+
+// const __dirname = import..meta.dirname    // : It replaces the CommonJS __dirname variable in ES modules, allowing you to access the directory path of the current file without boilerplate code.
+// const absPathToResource = path.join(__dirname, 'public', 'index.html')
+//   const relPathToResource = path.join('public', 'index.html')
+//   console.log('absolute: ', absPathToResource)
+//   console.log('relative: ', relPathToResource)
