@@ -68,3 +68,6 @@ server.listen(PORT,()=>console.log("done"))
 //   const relPathToResource = path.join('public', 'index.html')
 //   console.log('absolute: ', absPathToResource)
 //   console.log('relative: ', relPathToResource)
+
+// const path = require("path")
+// conat newPath = path.join(__dirname,index.js)
