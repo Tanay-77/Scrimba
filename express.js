@@ -22,4 +22,10 @@
 // Quey param (means accesing anything by typing stuf)
 
 // app.get('/',(req,res)=>{
-//         })
+//    let finaldata = celebrity 
+//     const {industry, country,is_need_role}=req.query
+//     if(industry){
+//      finaldata=finaldata.filter(celeb=> celeb.industry.toLowecase()===industry.toLowercase())}   
+// "for bollean now"
+//    if(is_role){
+//    finaldata=finaldata.filter(celeb=>celeb.is_role===json.parse(is_role.tolowwecase()))}  })
